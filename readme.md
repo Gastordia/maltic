@@ -53,6 +53,7 @@ The `Master` class represents the component that sends commands to the slave and
     - **scrot:** Take a screenshot on the slave.
 ## Contributing
   Contributions are welcome! If you'd like to enhance this project, please follow these steps:
+  
     - Fork the project.
     - Create your feature branch (git checkout -b feature/YourFeature).
     - Commit your changes (git commit -m 'Add some feature').
