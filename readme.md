@@ -37,6 +37,7 @@ The `Master` class represents the component that sends commands to the slave and
    ```bash
    git clone https://github.com/Gastordia/maltic
    cd maltic
+   cd src
    javac *.java
    java master || java slave
    ```
