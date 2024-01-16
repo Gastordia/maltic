@@ -40,11 +40,9 @@ The `Master` class represents the component that sends commands to the slave and
    javac *.java
    java master || java slave
    ```
-   # Usage
-
     Follow the prompts in the Master console to enter commands.
     
-    ## Available Commands
+    ### Available Commands
     
     - **ls:** List items in the current directory on the slave.
     - **cd [path]:** Change the current directory on the slave.
