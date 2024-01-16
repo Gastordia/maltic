@@ -1,4 +1,4 @@
-# pretty basic java malware 
+# basic java malware 
 
 Maltic enables communication between a master and a slave through sockets. The master sends commands to the slave, which executes them and returns the results.
 
