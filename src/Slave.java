@@ -136,7 +136,7 @@ public class Slave {
             BufferedImage screenshot = robot.createScreenCapture(screenSize);
             File outputfile = new File("slave_screenshot.png");
             ImageIO.write(screenshot, "png", outputfile);
-            String imagePath = "current/workin/path";
+            String imagePath = outputfile.getAbsolutePath();
             OutputStream oss = ss.getOutputStream();
             byte[] imageData = Files.readAllBytes(Paths.get(imagePath ));
             oss.write(imageData);
