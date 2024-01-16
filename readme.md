@@ -53,8 +53,8 @@ The `Master` class represents the component that sends commands to the slave and
     - **scrot:** Take a screenshot on the slave.
 ## Contributing
   Contributions are welcome! If you'd like to enhance this project, please follow these steps:
-    1. Fork the project.
-    2. Create your feature branch (git checkout -b feature/YourFeature).
-    3. Commit your changes (git commit -m 'Add some feature').
-    4. Push to the branch (git push origin feature/YourFeature).
-    5. Open a pull request.    
+    - Fork the project.
+    - Create your feature branch (git checkout -b feature/YourFeature).
+    - Commit your changes (git commit -m 'Add some feature').
+    - Push to the branch (git push origin feature/YourFeature).
+    - Open a pull request.    
